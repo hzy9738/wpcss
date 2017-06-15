@@ -19,5 +19,8 @@ webpack.config.js是配置文件
 
 3.css模板路径默认为src/css/***.css
 
+4.输入npm run webpack 即可编译 ，全局安装webpack，可直接 webpack
+
+
 自定义css模板,可在static/css生成被处理过css文件，默认生成index.css,
 可保证css代码兼容，图片将转为base64格式
