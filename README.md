@@ -3,6 +3,7 @@
 1.需要node环境与npm
 2.git clone https://github.com/hzy9738/wpcss.git
 3.cd wpcss 之后 npm install
+
 使用：
 webpack.config.js是配置文件
 1.常量 static为生成外部的静态文件夹名，默认为'static'
